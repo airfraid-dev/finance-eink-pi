@@ -10,8 +10,8 @@ symbols = [
                 ]
         },
 	{
-                "name": "C6E",
-                "isin": "LU1681040223",
+                "name": "NVD",
+                "isin": "US67066G1040",
                 "lots": [
                 {
                         "shares": 0,
@@ -20,8 +20,8 @@ symbols = [
                 ]
         },
 	{
-                "name": ".DAX",
-                "isin": "LU0274211480",
+                "name": "KY6",
+                "isin": "US45841N1072",
                 "lots": [
                 {
                         "shares": 0,
@@ -30,8 +30,8 @@ symbols = [
                 ]
         },
         {
-		"name": ".NASDAQ",
-		"isin": "DE000A0F5UF5",
+		"name": "AMZ",
+		"isin": "US0231351067",
 		"lots": [
 		{
 			"shares": 0,

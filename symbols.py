@@ -4,8 +4,8 @@ symbols = [
                 "isin": "IE00BK5BQT80",
                 "lots": [
                 {
-                        "shares":890,
-                        "cost": 104.66
+                        "shares":0,
+                        "cost": 0
                 }
                 ]
         },
@@ -14,8 +14,8 @@ symbols = [
                 "isin": "LU1681040223",
                 "lots": [
                 {
-                        "shares": 70,
-                        "cost": 141.13
+                        "shares": 0,
+                        "cost": 0
                 }
                 ]
         },
